@@ -31,3 +31,4 @@ function konec() {
 
 let konec2 = konec();
 console.log(konec())
+
